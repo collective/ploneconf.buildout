@@ -1,0 +1,15 @@
+/.directory
+/.installed.cfg
+/.mr.developer.cfg
+/.settings
+/bin
+/buildout.cfg
+/develop-eggs/*
+/eggs
+/etc
+/include
+/lib
+/local
+/parts
+/src/*
+/var/*
